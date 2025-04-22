@@ -7,9 +7,9 @@ VisionScorer is a multi-object tracking pipeline designed for basketball games. 
 You don’t need to install anything locally! Just follow these steps to run the notebook in Google Colab:
 
 1. **Download the notebook**  
-   [Click here](https://github.com/Br19ht/VisionScorer/blob/main/Vision_Scorer_V2.5.ipynb) to download `Vision_Scorer_V2.5.ipynb` from GitHub.
-   You can do this by clicking 3 dots on upper-right corner, and clicking on download.
-   Or, simply press `ctrl + shift + s` (Windows) or `cmd + shift + s` (Mac)
+   [Click here](https://github.com/Br19ht/VisionScorer/blob/main/Vision_Scorer_V2.5.ipynb) to download `Vision_Scorer_V2.5.ipynb` from GitHub. \
+   You can do this by clicking 3 dots on upper-right corner, and clicking on download. \
+   Or, simply press `ctrl + shift + s` (Windows) or `⌘ + shift + s` (Mac)
 
 3. **Open with Google Colab**  
    Go to [Google Colab](https://colab.research.google.com/) and upload the `.ipynb` file.
