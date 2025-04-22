@@ -1,12 +1,10 @@
-# VisionScorer v2.5
+# VisionScorer
 
 VisionScorer is a multi-object tracking pipeline designed for basketball games. This notebook enables you to detect and track players, the ball, and the hoop using a pre-trained YOLOv11 model with post-processing.
 
-## 💡 Quick Start
+## 🧑‍💻 How to Use
 
 You don’t need to install anything locally! Just follow these steps to run the notebook in Google Colab:
-
-### 🧑‍💻 How to Use
 
 1. **Download the notebook**  
    [Click here](https://github.com/Br19ht/VisionScorer/blob/main/Vision_Scorer_V2.5.ipynb) to download `Vision_Scorer_V2.5.ipynb` from GitHub.
